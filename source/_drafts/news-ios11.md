@@ -10,7 +10,7 @@ thumbnail:
  - http://www.startlr.com/wp-content/uploads/2017/06/apple-releases-ios-11-developer-beta-screenshot-iphone-and-ipad-pro.jpg
 ---
 
-# DeviceChekck 기능 (iOS11)이 가져올 중고폰 시장의 파장
+# DeviceChekck 기능이 가져올 iPhone 중고폰 시장의 파장
 
 Apple은 사기 방지를 위한 개발측 요구와 개인 정보보호를 모두 만족시킬 수 있는 기능을 iOS 11 도입했으며, 향후 중고폰 시장에 영향을 미칠 것 같습니다.
 
@@ -29,5 +29,6 @@ Gizmodo가 밝힌 예를 보자. 개발자는 사용자가 구독을 하거나 �
 
 평가판 기간이 끝나고, 이용 여부 가리키는 다른 값(아마 01 정도)으로 Apple 서버에 보낼 수 있다. 그리고 timestamp는 만료 날짜를 의미한다. Katie Skinner (privacy enginner for Apple)는 다음과 같이 개발자들에게 설명했다.
 
-
-<div style="text-align: right">원문출처 : [The Mac Observer] https://www.macobserver.com/news/ios-11-devicecheck-balance-privacy-fraud-prevention-used-iphones/) </div>
+<div style="text-align: right">
+원문출처 : [The Mac Observer]
+</div>https://www.macobserver.com/news/ios-11-devicecheck-balance-privacy-fraud-prevention-used-iphones/"
