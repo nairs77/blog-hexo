@@ -18,15 +18,12 @@ thumbnail:
 
 # Python With Visual Studio Code
 Visual Studio Code를 이용한 Python 개발환경에 대해서 알아보자.
-
 ## Install Python
 설치는 Mac을 기준으로 설명합니다.
+* VSCode가 설치되지 않았다면, 이전 포스트 {% post_link 20170719-getting-started-vscode %} 를 먼저 확인하세요.
+* Python [공식 사이트](https://www.python.org/download)로 부터 다운로드 받는다.
 
-1. 혹시 VSCode가 설치되지 않았다면, Visual Studio Code 사이트로 부터 다운로드를 받는다. 
- - [다운로드](https://code.visualstudio.com/Download) - https://code.visualstudio.com/Download
+## Install Python Extension
+이제 Extension을 설치해 보자. VSCode의 Extension은 
 
-2. Python 공식 사이트로 부터 다운로드 받는다.
- - [다운로드](https://www.python.org/download) - https://www.python.org/download
-
-## Install Extension
-
+## Python Environment Setup
